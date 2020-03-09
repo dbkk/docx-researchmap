@@ -1,2 +1,2 @@
 # docx-researchmap
-This is a code to pickup json files from researchmapv2 and output a docx suited for reporting to agencies.
+新学術などのグループメンバーの業績をresearchmapv2のAPIから自動で集め、docx形式にしてダウンロードするコードです。
