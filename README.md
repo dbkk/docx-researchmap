@@ -5,7 +5,9 @@
 
 - [メンバー情報](https://docs.google.com/spreadsheets/d/1wce1XHSFGSBttupnSIqe_5abtijBb_hBYM2bfaV9Jn4/edit)
 
+
 手順:
+
 0. 領域メンバー各自にresearchmapを更新してもらう(業績を"公開"でお願い)
 1. "Open with Colab"をクリックし、"ランタイム"/"すべてのセルを実行"(コードはいじれるが保存はされない)
 2. 3番目くらいのセルでgoogle spreadsheetへのアクセス認証を求められるので実行("メンバー情報"を参照するために必要)
