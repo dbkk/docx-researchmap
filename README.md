@@ -1,24 +1,28 @@
 # docx-researchmap
 グループメンバーの業績(論文、招待講演、書籍、その他)をresearchmapv2のAPIを通じて集め、docxファイルにしてダウンロードするコードです。
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/master/researchmapv2_to_docx.ipynb)
+[新学術領域](https://infophys-bio.jp/)の業績報告用に作りましたが、メンバー情報のスプレッドシートを変更すれば他領域や個人でも使えるはずです。
 
-- [メンバー情報](https://docs.google.com/spreadsheets/d/1wce1XHSFGSBttupnSIqe_5abtijBb_hBYM2bfaV9Jn4/edit)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/master/researchmapv2_to_docx.ipynb)
+
+[メンバー情報](https://docs.google.com/spreadsheets/d/1wce1XHSFGSBttupnSIqe_5abtijBb_hBYM2bfaV9Jn4/edit)
 
 
 ## 手順
 
 1. 領域メンバーにresearchmapを更新してもらう(業績を"公開"でお願い)
-2. "Open with Colab"をクリックし、ランタイム/すべてのセルを実行 (コードはいじれるが保存はされない)
-3. 3番目くらいのセルでgoogle spreadsheetへのアクセス認証を求められるので実行("メンバー情報"を参照するために必要)
-4. docxがダウンロードされるのを待つ
-5. 最後のセル '''files.download(file_name)''' でエラーが出た場合は、最後のセルの左側の▶を押す(セルを実行)
+2. "Open with Colab"をクリック
+3. 最初のセルでパラメータをいじる
+4. ランタイム/すべてのセルを実行
+5. 3番目くらいのセルでgoogle spreadsheetへのアクセス認証を求められるので実行(google accountでログインが必要)
+6. docxがダウンロードされるのを待つ
+7. ダウンロードされず'''files.download(file_name)'''でエラーが出た場合は、最後のセルの左側の▶を押す(セルを実行)
 
 ## 修正すべき事項
 
 1. 著者名の例外処理... 登録されているメンバーの名前を検出してunderlineしたりSurname, Firstnameの順を決めてたりしているが、登録名と少しでも違うと見つけられない。別表記もspreadsheetに登録しておくしかないか。
 2. 班をまたいで著者名がいる場合のマークづけ...
-3. 共同研究の数等の数字を別紙の書式通りに出力...
+3. 共同研究の数等を別紙の書式通りに出力...
 
 ## 中間報告書式指定(2019参考)
 
