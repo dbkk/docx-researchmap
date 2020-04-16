@@ -3,9 +3,11 @@
 
 [新学術領域](https://infophys-bio.jp/)の業績報告用に作りましたが、メンバー情報のスプレッドシートを変更すれば他領域や個人でも使えるはずです。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/master/researchmapv2_to_docx.ipynb)
+グループの場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_docx.ipynb)
 
-[メンバー情報](https://docs.google.com/spreadsheets/d/1wce1XHSFGSBttupnSIqe_5abtijBb_hBYM2bfaV9Jn4/edit)
+個人の場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_docx_single.ipynb)
+
+[メンバー情報例](https://docs.google.com/spreadsheets/d/1wce1XHSFGSBttupnSIqe_5abtijBb_hBYM2bfaV9Jn4/edit)
 
 
 ## 手順
@@ -22,6 +24,8 @@
 1. 著者名の例外処理... 登録されているメンバーの名前を検出してunderlineしたりSurname, Firstnameの順を決めてたりしているが、登録名と少しでも違うと見つけられない。別表記もspreadsheetに登録しておくしかないか。
 2. 班をまたいで著者名がいる場合のマークづけ...
 3. 共同研究の数等を別紙の書式通りに出力...
+4. Arxiv対応 (MISCの中の著者ルールなど)
+5. 論文表記指定対応（略称リスト作る？）、名前表記指定対応、日付表記指定対応
 
 ## 中間報告書式指定(2019参考)
 
