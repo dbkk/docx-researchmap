@@ -36,7 +36,8 @@
 * 一般向けのアウトリーチ活動を行った場合はその内容についても記述してください。
 
 
+## 科研費実施状況報告書用(個人)
 
-科研費実施状況報告書用(個人)：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_csv.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_csv.ipynb)
 
 * 国際共著, オープンアクセス, 国際学会かどうか, 総ページ数は拾えず
