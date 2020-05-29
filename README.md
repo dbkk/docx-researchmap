@@ -34,3 +34,9 @@
 * 別添の「（２）発表論文」の融合研究論文として整理した論文については、冒頭に◎を付してください。
 * 補助条件に定められたとおり、本研究課題に係り交付を受けて行った研究の成果であることを表示したもの（論文等の場合は謝辞に課題番号を含め記載したもの）について記載したものについては、冒頭に▲を付してください（前項と重複する場合は、「◎▲・・・」と記載してください。）。
 * 一般向けのアウトリーチ活動を行った場合はその内容についても記述してください。
+
+
+
+科研費実施状況報告書用(個人)：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_csv.ipynb)
+
+* 国際共著, オープンアクセス, 国際学会かどうか, 総ページ数は拾えず
