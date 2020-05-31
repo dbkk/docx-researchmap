@@ -40,4 +40,5 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_csv.ipynb)
 
+* c.f. https://www-shinsei.jsps.go.jp/kaken/docs/2_csv_torikomi.pdf
 * 国際共著, オープンアクセス, 国際学会かどうか, 総ページ数は拾えず
