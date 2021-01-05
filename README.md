@@ -25,8 +25,9 @@
 
 1. 班をまたいで著者名がいる場合のマークづけ
 2. 共同研究の数等を別紙の書式通りに出力
-3. Arxiv対応 (MISCの中の著者ルールなど)
-4. 論文表記指定対応（略称リスト作る？）、名前表記指定対応、日付表記指定対応
+3. 論文ダブりを排除 (DOIの入力を全員にお願いする?)
+4. Arxiv対応 (MISCの中の著者ルールなど)
+5. 論文表記指定対応（略称リスト作る？）、名前表記指定対応、日付表記指定対応
 
 ## 中間報告書式指定(2019参考)
 
@@ -38,6 +39,8 @@
 
 
 ## 科研費実施状況報告書用(個人)
+
+科研費実施状況報告書のためにアップロードできる業績リストcsvファイルを作るコードです。
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_csv.ipynb)
 
