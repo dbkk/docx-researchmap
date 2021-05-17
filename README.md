@@ -3,9 +3,9 @@
 
 [新学術領域](https://infophys-bio.jp/)の業績報告用に作りましたが、メンバー情報のスプレッドシートを変更すれば他領域や個人でも使えるはずです。
 
-グループの場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_docx.ipynb)
+グループの場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/rev2021/researchmapv2_to_docx.ipynb)
 
-個人の場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_docx_single.ipynb)
+個人の場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/rev2021/researchmapv2_to_docx_single.ipynb)
 
 [メンバー情報例](https://docs.google.com/spreadsheets/d/1wce1XHSFGSBttupnSIqe_5abtijBb_hBYM2bfaV9Jn4/edit)
 
@@ -36,9 +36,9 @@
 * 一般向けのアウトリーチ活動を行った場合はその内容についても記述してください。
 
 
-## 科研費実施状況報告書用(個人)
+## 科研費実施状況報告書用(個人) (2021.05更新)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/testing/researchmapv2_to_csv.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/rev2021/researchmapv2_to_csv.ipynb)
 
 * c.f. https://www-shinsei.jsps.go.jp/kaken/docs/2_csv_torikomi.pdf
 * 国際共著, オープンアクセス, 国際学会かどうか, 総ページ数は拾えず
