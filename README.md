@@ -30,7 +30,8 @@
 ## 中間報告書式指定(2021)
 ### 領域全体用
 研究項目ごとに計画研究・公募研究の順で、本研究領域により得られた研究成果の発表の状況（主な雑誌論文、学会発表、書籍、産業財産権、ホームページ、主催シンポジウム、一般向けのアウトリーチ活動等の状況。令和３年６月末までに掲載等が確定しているものに限る。）について、具体的かつ簡潔に５頁以内で記述すること。なお、雑誌論文の記述に当たっては、新しいものから順に発表年次をさかのぼり、研究代表者（発表当時、以下同様。）には二重下線、研究分担者には一重下線、corresponding author には左に＊印を付すこと。
-グループの場合：[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/rev2021/researchmapv2_to_chukan.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/rev2021/researchmapv2_to_chukan.ipynb)
 
 ### 計画研究個別用
 本研究課題により得られた研究成果の発表の状況（主な雑誌論文、学会発表、書籍、産業財産権、ホームページ、主催シンポジウム、一般向けのアウトリーチ活動等の状況。令和３年６月末までに掲載等が確定しているものに限る。）について、具体的かつ簡潔に１頁以内で記述すること。なお、雑誌論文の記述に当たっては、新しいものから順に発表年次をさかのぼり、研究代表者（発表当時、以下同様。）には二重下線、研究分担者には一重下線、corresponding author には左に＊印を付すこと。
