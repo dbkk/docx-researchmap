@@ -19,6 +19,4 @@
 - Colabフォーム対応: パラメータセルがフォームUIで表示され、他のセルは折りたたまれる
 - 雑誌名をISO 4略称で表示 (例: Science Advances → Sci. Adv.)、[abbreviso](https://abbreviso.toolforge.org/)経由
 - bioRxiv自動検出: DOIプレフィックス(`10.1101/`, `10.64898/`)から判定
-- 英語名の表記をFirstname Surname順（Western order）に変更
-- HTMLタグ除去: タイトル等に含まれる`<scp>`, `<i>`等を自動削除
-- PermissionError対策: 出力ファイルが開かれている場合、タイムスタンプ付きファイル名で保存
+- PermissionError対策(ローカル用): 出力ファイルが開かれている場合、タイムスタンプ付きファイル名で保存
