@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 CLAUDE.md
 .claude/
+format/
+_test_pioneer*.py
