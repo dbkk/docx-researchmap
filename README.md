@@ -5,6 +5,8 @@
 
 個人用: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/master/researchmapv2_to_docx_single.ipynb)
 
+個人用CSV出力(科研費報告書など): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dbkk/docx-researchmap/blob/master/researchmapv2_to_csv.ipynb)
+
 [メンバー情報例](https://docs.google.com/spreadsheets/d/1T5QtMv4M_peHHM-Zj4oFmS1jHG4voDBJipbEEY0xFQs/edit?usp=sharing)
 
 ## 手順
@@ -22,3 +24,4 @@
 - 雑誌名をISO 4略称で表示 (例: Science Advances → Sci. Adv.)、[abbreviso](https://abbreviso.toolforge.org/)経由
 - bioRxiv自動検出: DOIプレフィックス(`10.1101/`, `10.64898/`)から判定
 - PermissionError対策(ローカル用): 出力ファイルが開かれている場合、タイムスタンプ付きファイル名で保存
+- 個人用CSV出力ノートブックを追加: researchmap IDを直接入力するだけでpapers.csv / talks.csv / books.csvを出力。UTF-8 BOM付きでExcelでもShift-JISエラーなく開ける
