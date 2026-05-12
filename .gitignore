@@ -3,3 +3,4 @@ CLAUDE.md
 .claude/
 format/
 _test_pioneer*.py
+_run*
