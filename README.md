@@ -24,4 +24,4 @@
 - 雑誌名をISO 4略称で表示 (例: Science Advances → Sci. Adv.)、[abbreviso](https://abbreviso.toolforge.org/)経由
 - bioRxiv自動検出: DOIプレフィックス(`10.1101/`, `10.64898/`)から判定
 - PermissionError対策(ローカル用): 出力ファイルが開かれている場合、タイムスタンプ付きファイル名で保存
-- 個人用CSV出力ノートブックを追加: researchmap IDを直接入力するだけでpapers.csv / talks.csv / books.csvを出力。UTF-8 BOM付きでExcelでもShift-JISエラーなく開ける
+- 個人用CSV出力ノートブックを追加: researchmap IDを直接入力するだけでpapers.csv / talks.csv / books.csvを出力。**KAKEN科研費電子申請システムの一括取込フォーマット**に準拠 (Shift-JIS / CRLF / ヘッダ行なし / 雑誌論文26列・学会発表7列・図書6列)

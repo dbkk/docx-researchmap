@@ -4,3 +4,5 @@ CLAUDE.md
 format/
 _test_pioneer*.py
 _run*
+_build*
+*pioneering*
